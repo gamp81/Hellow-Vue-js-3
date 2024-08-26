@@ -1,4 +1,6 @@
 # hellowordvue
+Siguiendo el curso de Gogodev
+tercer video https://youtu.be/Ln1SN43jtG8?si=Zy3fY6DgaI6QlmIy
 
 ## Project setup
 ```
